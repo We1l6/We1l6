@@ -1,16 +1,21 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=We1l6&show_icons=true&theme=github_dark" width="100%" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=We1l6&theme=github-dark" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none;">
+      <a href="https://leetcode.com/koliruslik" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/We1l6?theme=dark&font=Fira+Code&ext=contest" width="100%" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=We1l6&layout=compact&theme=github_dark" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!--
-**We1l6/We1l6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
